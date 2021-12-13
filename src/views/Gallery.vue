@@ -5,7 +5,7 @@
       <v-container>
         <div>
           <v-col class="d-flex align-center justify-center">
-            <h1 class="display-3">Gallery</h1>
+            <h1 class="display-3"><b>Gallery</b></h1>
           </v-col>
         </div>
         <v-toolbar
@@ -150,7 +150,7 @@ export default {
         { title: "Delete", icon: "mdi-delete" },
       ],
       baritems: [
-        { title: "Public", val: 15 },
+        { title: "All images", val: 15 },
         { title: "Private", val: 5 },
         { title: "Hidden", val: 2 },
       ],

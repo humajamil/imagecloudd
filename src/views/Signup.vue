@@ -1,3 +1,9 @@
+<!--
+System: image upload App using Api
+Developer: huma Jamil
+Date: Dec 12, 2021
+Organization: Programmer Force
+Purpose:  this file View/Signup.vue is responsible for user authentication and signup into the system -->
 <template>
   <div>
     <v-app>
